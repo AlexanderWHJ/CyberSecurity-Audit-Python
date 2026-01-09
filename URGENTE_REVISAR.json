@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "ip_atacante": "192.168.1.25",
+        "puerto_afectado": "53",
+        "gravedad": "alta"
+    },
+    {
+        "id": "2",
+        "ip_atacante": "174.24.35.185",
+        "puerto_afectado": "53",
+        "gravedad": "critica"
+    },
+    {
+        "id": "3",
+        "ip_atacante": "147.24.56.174",
+        "puerto_afectado": "22",
+        "gravedad": "critica"
+    }
+]
